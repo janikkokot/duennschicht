@@ -1,0 +1,217 @@
+Glas,
+Glas
+Collection Time: 6/6/2023 1:34:29 PM
+Operator Name  :
+Scan Version 5.0.0.999
+Parameter List :
+Instrument  Cary 60
+Instrument Version  2.00
+Start (nm)  800.0
+Stop (nm)  200.0
+X Mode  Nanometers
+Y Mode  %T
+UV-Vis Scan Rate (nm/min)  4800.000
+UV-Vis Data Interval (nm)  1.00
+UV-Vis Ave. Time (sec)  0.0125
+Beam Mode  Dual Beam
+Baseline Correction  On
+Baseline Type  Zero/baseline correction
+Baseline File Name
+Baseline Std Ref File Name
+Cycle Mode  Off
+Method Log     :
+Method Name    :
+Date/Time stamp: 6/6/2023 1:32:33 PM
+Method Modifications:
+Y mode Changed: 6/6/2023 1:33:00 PM, Old:Abs, New:%T
+Common Interval nm Changed: 6/6/2023 1:33:00 PM, Old:     5.00, New:     1.00
+Baseline Correction Changed: 6/6/2023 1:33:00 PM, Old:0, New:2
+End Method Modifications
+<Current Wavelength> , 221.0
+
+ZnS_1,
+ZnS_1
+Collection Time: 6/6/2023 1:36:53 PM
+Operator Name  :
+Scan Version 5.0.0.999
+Parameter List :
+Instrument  Cary 60
+Instrument Version  2.00
+Start (nm)  800.0
+Stop (nm)  200.0
+X Mode  Nanometers
+Y Mode  %T
+UV-Vis Scan Rate (nm/min)  4800.000
+UV-Vis Data Interval (nm)  1.00
+UV-Vis Ave. Time (sec)  0.0125
+Beam Mode  Dual Beam
+Baseline Correction  On
+Baseline Type  Zero/baseline correction
+Baseline File Name
+Baseline Std Ref File Name
+Cycle Mode  Off
+Method Log     :
+Method Name    :
+Date/Time stamp: 6/6/2023 1:32:33 PM
+Method Modifications:
+Y mode Changed: 6/6/2023 1:33:00 PM, Old:Abs, New:%T
+Common Interval nm Changed: 6/6/2023 1:33:00 PM, Old:     5.00, New:     1.00
+Baseline Correction Changed: 6/6/2023 1:33:00 PM, Old:0, New:2
+End Method Modifications
+<Current Wavelength> , 289.0
+
+ZnS_2,
+ZnS_2
+Collection Time: 6/6/2023 1:39:07 PM
+Operator Name  :
+Scan Version 5.0.0.999
+Parameter List :
+Instrument  Cary 60
+Instrument Version  2.00
+Start (nm)  800.0
+Stop (nm)  200.0
+X Mode  Nanometers
+Y Mode  %T
+UV-Vis Scan Rate (nm/min)  4800.000
+UV-Vis Data Interval (nm)  1.00
+UV-Vis Ave. Time (sec)  0.0125
+Beam Mode  Dual Beam
+Baseline Correction  On
+Baseline Type  Zero/baseline correction
+Baseline File Name
+Baseline Std Ref File Name
+Cycle Mode  Off
+Method Log     :
+Method Name    :
+Date/Time stamp: 6/6/2023 1:32:33 PM
+Method Modifications:
+Y mode Changed: 6/6/2023 1:33:00 PM, Old:Abs, New:%T
+Common Interval nm Changed: 6/6/2023 1:33:00 PM, Old:     5.00, New:     1.00
+Baseline Correction Changed: 6/6/2023 1:33:00 PM, Old:0, New:2
+End Method Modifications
+<Current Wavelength> , 264.0
+
+MgF2_1,
+MgF2_1
+Collection Time: 6/6/2023 1:40:23 PM
+Operator Name  :
+Scan Version 5.0.0.999
+Parameter List :
+Instrument  Cary 60
+Instrument Version  2.00
+Start (nm)  800.0
+Stop (nm)  200.0
+X Mode  Nanometers
+Y Mode  %T
+UV-Vis Scan Rate (nm/min)  4800.000
+UV-Vis Data Interval (nm)  1.00
+UV-Vis Ave. Time (sec)  0.0125
+Beam Mode  Dual Beam
+Baseline Correction  On
+Baseline Type  Zero/baseline correction
+Baseline File Name
+Baseline Std Ref File Name
+Cycle Mode  Off
+Method Log     :
+Method Name    :
+Date/Time stamp: 6/6/2023 1:32:33 PM
+Method Modifications:
+Y mode Changed: 6/6/2023 1:33:00 PM, Old:Abs, New:%T
+Common Interval nm Changed: 6/6/2023 1:33:00 PM, Old:     5.00, New:     1.00
+Baseline Correction Changed: 6/6/2023 1:33:00 PM, Old:0, New:2
+End Method Modifications
+<Current Wavelength> , 217.0
+
+MgF2_2,
+MgF2_2
+Collection Time: 6/6/2023 1:40:58 PM
+Operator Name  :
+Scan Version 5.0.0.999
+Parameter List :
+Instrument  Cary 60
+Instrument Version  2.00
+Start (nm)  800.0
+Stop (nm)  200.0
+X Mode  Nanometers
+Y Mode  %T
+UV-Vis Scan Rate (nm/min)  4800.000
+UV-Vis Data Interval (nm)  1.00
+UV-Vis Ave. Time (sec)  0.0125
+Beam Mode  Dual Beam
+Baseline Correction  On
+Baseline Type  Zero/baseline correction
+Baseline File Name
+Baseline Std Ref File Name
+Cycle Mode  Off
+Method Log     :
+Method Name    :
+Date/Time stamp: 6/6/2023 1:32:33 PM
+Method Modifications:
+Y mode Changed: 6/6/2023 1:33:00 PM, Old:Abs, New:%T
+Common Interval nm Changed: 6/6/2023 1:33:00 PM, Old:     5.00, New:     1.00
+Baseline Correction Changed: 6/6/2023 1:33:00 PM, Old:0, New:2
+End Method Modifications
+<Current Wavelength> , 242.0
+
+MgF2_3,
+MgF2_3
+Collection Time: 6/6/2023 1:41:36 PM
+Operator Name  :
+Scan Version 5.0.0.999
+Parameter List :
+Instrument  Cary 60
+Instrument Version  2.00
+Start (nm)  800.0
+Stop (nm)  200.0
+X Mode  Nanometers
+Y Mode  %T
+UV-Vis Scan Rate (nm/min)  4800.000
+UV-Vis Data Interval (nm)  1.00
+UV-Vis Ave. Time (sec)  0.0125
+Beam Mode  Dual Beam
+Baseline Correction  On
+Baseline Type  Zero/baseline correction
+Baseline File Name
+Baseline Std Ref File Name
+Cycle Mode  Off
+Method Log     :
+Method Name    :
+Date/Time stamp: 6/6/2023 1:32:33 PM
+Method Modifications:
+Y mode Changed: 6/6/2023 1:33:00 PM, Old:Abs, New:%T
+Common Interval nm Changed: 6/6/2023 1:33:00 PM, Old:     5.00, New:     1.00
+Baseline Correction Changed: 6/6/2023 1:33:00 PM, Old:0, New:2
+End Method Modifications
+<Current Wavelength> , 227.0
+
+Filter,
+Filter
+Collection Time: 6/6/2023 1:42:58 PM
+Operator Name  :
+Scan Version 5.0.0.999
+Parameter List :
+Instrument  Cary 60
+Instrument Version  2.00
+Start (nm)  800.0
+Stop (nm)  200.0
+X Mode  Nanometers
+Y Mode  %T
+UV-Vis Scan Rate (nm/min)  4800.000
+UV-Vis Data Interval (nm)  1.00
+UV-Vis Ave. Time (sec)  0.0125
+Beam Mode  Dual Beam
+Baseline Correction  On
+Baseline Type  Zero/baseline correction
+Baseline File Name
+Baseline Std Ref File Name
+Cycle Mode  Off
+Method Log     :
+Method Name    :
+Date/Time stamp: 6/6/2023 1:32:33 PM
+Method Modifications:
+Y mode Changed: 6/6/2023 1:33:00 PM, Old:Abs, New:%T
+Common Interval nm Changed: 6/6/2023 1:33:00 PM, Old:     5.00, New:     1.00
+Baseline Correction Changed: 6/6/2023 1:33:00 PM, Old:0, New:2
+End Method Modifications
+<Current Wavelength> , 259.0
+
