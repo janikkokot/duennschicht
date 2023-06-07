@@ -1,0 +1,42 @@
+[si_kal]
+anweisung = "Vergleichen Sie den gemessenen Wert der Schichtdicke von SiO2 auf Si mit dem angegebenen Sollwert des Standardwafers."
+[si_kal.vorgaben]
+n = 1.465
+k = 0
+n_waver = 3.865
+k_waver = -0.02
+[si_kal.mess]
+psi = 46.3995
+delta = 129.9921
+filmdicke = 103.8444
+periodische_filmdicke = 260.5006
+[si_kal.soll]
+filmdicke = 101.5
+
+[quarz_kal]
+anweisung = "Vergleichen Sie die gemessenen Werte der optischen Eigenschaften  von Quarzglas mit den angegebenen Sollwerten und diskutieren Sie mögliche Fehlerquellen."
+[quarz_kal.mess]
+psi = 2.1092
+delta = 160.1683
+n = 1.4973
+k = -0.0263
+reflektivitaet = 3.98
+[quarz_kal.soll]
+n = 1.5153
+k = 0
+
+[si_mess]
+anweisung = "Erstellen Sie ein Ψ gegen ∆ -Diagramm und diskutieren Sie dieses bezüglich der Uneindeutigkeit der ellipsometrischen Schichtdickenbestimmmung bei nur einem Einfallswinkel."
+n = 1.465
+k = 0
+n_waver = 3.865
+k_waver = -0.02
+periodische_filmdicke = 260.5006
+
+[cu_mess]
+anweisung = "Erstellen Sie ein Ψ gegen ∆ -Diagramm und diskutieren Sie die zusätzlichen Limitierungen der ellipsometrischen Schichtdickenbestimmung von Cu-Schichten."
+n = 3.147
+k = -0.39
+n_waver = 3.865
+k_waver = -0.02
+periodische_filmdicke = 140.6542
